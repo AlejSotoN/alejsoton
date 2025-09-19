@@ -1,6 +1,6 @@
-## It's me, Alejandro. Hi! 👋
+# It's me, Alejandro. Hi! 👋
 
-About me...
+## About me...
 
 Test 
 
