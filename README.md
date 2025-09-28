@@ -41,8 +41,8 @@ When I’m not coding, you’ll find me 📖 reading about medicine (mostly ment
 
 ## 📊 GitHub Stats  
 
-![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejsoton&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejsoton&layout=compact&theme=radical)
 
 
 
