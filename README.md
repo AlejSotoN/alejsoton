@@ -35,7 +35,7 @@
 ---
 
 ## ❤️ Interests  
-When I’m not coding, you’ll find me 📖 reading about medicine (mostly mental health), personal development, business and/or finances,⚙️ also exploring open-source projects, or 🧠 learning new frameworks.  
+When I’m not coding, I work as a physician, providing medical care and helping improve patients' lives. I also enjoy reading 📖 about medicine (mental health is my jam), personal development, business and/or finances.
 
 ---
 
