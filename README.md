@@ -2,7 +2,7 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 Medical graduate pivoting into **software development** with hands-on experience in full-stack projects.  
+- 🎓 Medical graduate pivoting into **software development**.  
 - 🛠️ Passionate about building **scalable, user-friendly applications**.  
 - 📚 Always learning new technologies and improving my craft.  
 
