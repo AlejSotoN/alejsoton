@@ -1,12 +1,10 @@
 # Hi, I'm Alejandro 👋  
----
 
 ## 🚀 About Me  
 - 🎓 Medical graduate pivoting into **software development**.  
 - 🛠️ Passionate about building **scalable, user-friendly applications**.  
 - 📚 Always learning new technologies and improving my craft.  
 
----
 
 ## 🛠 Tech Stack  
 
@@ -58,7 +56,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
 </p>
----
 
 ## 🌐 Where to Find Me  
 
@@ -77,17 +74,16 @@
   </a>
 </p>
 
----
+
 
 ## 🌱 What I'm Looking For  
 💡 Currently seeking opportunities to **contribute to impactful projects**, collaborate with other developers, and grow as a **full-stack engineer**.  
 
----
+
 
 ## ❤️ Interests  
 When I’m not coding, I work as a physician, providing medical care and helping improve patients' lives. I also enjoy reading 📖 about medicine (mental health is my jam), personal development, business and/or finances.
 
----
 
 ## 📊 GitHub Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejsoton&layout=compact&theme=radical)
