@@ -59,7 +59,7 @@
 
 ## 🌐 Where to Find Me  
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/alejsoton" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
