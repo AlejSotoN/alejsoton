@@ -9,7 +9,6 @@
 ---
 
 ## 🛠 Tech Stack  
-## 🛠 Tech Stack  
 
 <p align="left">
   <!-- Languages -->
@@ -60,6 +59,7 @@
   </a>
 </p>
 ---
+
 ## 🌐 Where to Find Me  
 
 <p align="center">
