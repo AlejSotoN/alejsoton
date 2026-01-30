@@ -82,25 +82,5 @@
 
 
 ## ❤️ Interests  
-When I’m not coding, I work as a physician, providing medical care and helping improve patients' lives. I also enjoy reading 📖 about medicine (mental health is my jam), personal development, business and/or finances.
+When I’m not coding, I work as a physician, providing medical care and helping improve patients' lives. I also enjoy reading 📖, movies 🎥, and videogames 🎮.
 
-
-## 📊 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejsoton&layout=compact&theme=radical)
-
-
-
-<!--
-**AlejSotoN/alejsoton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
