@@ -1,14 +1,13 @@
-# Hi, I'm Alejandro 👋  
+# Hi, I'm Alejandro 👋
 
-## 🚀 About Me  
-- 🎓 Medical graduate pivoting into **software development**.  
-- 🛠️ Passionate about building **scalable, user-friendly applications**.  
-- 📚 Always learning new technologies and improving my craft.  
+## 🚀 About Me
+- 💻 **Full-Stack Software Engineer** with a medical degree, combining technical skill with clinical precision.
+- 🛠️ Dedicated to building **scalable, user-friendly, and impactful applications**.
+- 📚 Continuously expanding my engineering toolkit and diving deep into full-stack architecture.
 
+## 🛠 Tech Stack
 
-## 🛠 Tech Stack  
-
-<p display="flex" align="left">
+<p align="left">
   <!-- Languages -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -19,49 +18,46 @@
 
   <!-- Frontend -->
   <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
   </a>
   <a href="https://styled-components.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="styled components" width="40" height="40"/>
   </a>
-  <a href="https://github.com/css-modules/css-modules" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css modules" width="40" height="40"/>
-  </a>
 
   <!-- Backend -->
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   </a>
 
   <!-- Tools -->
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   </a>
   <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   </a>
 </p>
 
-## 🌐 Where to Find Me  
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/alejsoton" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://t.me/alejandrosoton" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="Telegram" width="40" height="40"/>
@@ -74,13 +70,8 @@
   </a>
 </p>
 
+## 🎯 What I'm Looking For
+Currently seeking opportunities to **collaborate on engineering projects**, solve complex full-stack challenges, and build high-quality software with a team.
 
-
-## 🌱 What I'm Looking For  
-💡 Currently seeking opportunities to **contribute to impactful projects**, collaborate with other developers, and grow as a **full-stack engineer**.  
-
-
-
-## ❤️ Interests  
-When I’m not coding, I work as a physician, providing medical care and helping improve patients' lives. I also enjoy reading 📖, movies 🎥, and videogames 🎮.
-
+## ❤️ Beyond the Code
+Alongside building software, I am an active physician providing medical care. Outside of work, you can find me reading 📖, watching movies 🎥, or gaming 🎮.
